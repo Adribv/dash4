@@ -1,0 +1,4 @@
+gunicorn
+dash
+pandas
+flask-cors
